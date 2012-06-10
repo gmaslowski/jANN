@@ -1,4 +1,4 @@
-ANN
+jANN
 ===
 
-Artificial Neural Network
+Java Artificial Neural Network
